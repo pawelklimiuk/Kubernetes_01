@@ -5,6 +5,7 @@ metadata:
   labels:
     app: result
   name: result
+  namespace: result
 spec:
   replicas: 1
   selector:

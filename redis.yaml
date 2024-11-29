@@ -6,7 +6,7 @@ metadata:
   labels:
     app: redis
   name: redis
-#  namespace: database
+  namespace: database
   resourceVersion: "4953"
   uid: ea07008b-1a17-45fc-b883-004d4c11c316
 spec:
