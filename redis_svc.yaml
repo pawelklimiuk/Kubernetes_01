@@ -5,6 +5,7 @@ metadata:
   labels:
     app: redis-svc
   name: redis-svc
+  namespace: database
 spec:
   ports:
   - name: 6379-6379
